@@ -1,0 +1,9 @@
+{
+    "contact": { // contact info for delegators / outreach
+        "email": "x2fintech@gmail.com",
+        "website": "https://www.x2fintech.com"
+    },
+    "notifications": { // notification settings
+        "email": "x2fintech@gmail.com" // email to receive notifications
+    }
+}
